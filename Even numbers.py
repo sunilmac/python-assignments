@@ -1,4 +1,4 @@
 n=int(input())
 for i in range(n):
-  if(n%2==0):
-     print(n)
+  if(i%2==0):
+     print(i)
